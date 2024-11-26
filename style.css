@@ -1,0 +1,7 @@
+.hero {
+  background: linear-gradient(to bottom right, #cbffe9, #ffbffe);
+  padding-top: 7rem;
+}
+.project {
+  background: #cbffe9;
+}
